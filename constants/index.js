@@ -1,0 +1,31 @@
+export const apiKey = "823ee60c49ac42fb81354631230207";
+
+export const weatherImages = {
+  "Partly cloudy": require("../assets/images/partlycloudy.png"),
+  "Moderate rain": require("../assets/images/moderaterain.png"),
+  "Patchy rain possible": require("../assets/images/moderaterain.png"),
+  Sunny: require("../assets/images/sun.png"),
+  Clear: require("../assets/icons/clear.png"),
+  Overcast: require("../assets/images/cloud.png"),
+  Cloudy: require("../assets/images/cloud.png"),
+  Fog:require("../assets/icons/fog.png"),
+  // "Light rain shower": require("../assets/images/moderaterain.png"),
+  "Moderate rain at times": require("../assets/images/moderaterain.png"),
+  "Heavy rain": require("../assets/images/heavyrain.png"),
+  "Heavy rain at times": require("../assets/images/heavyrain.png"),
+  "Moderate or heavy freezing rain": require("../assets/images/heavyrain.png"),
+  "Moderate or heavy rain shower": require("../assets/images/heavyrain.png"),
+  "Mist":require("../assets/icons/mist.png"),
+  // "Moderate or heavy rain with thunder": require("../assets/images/heavyrain.png"),
+
+  "Thundery outbreaks in nearby" : require("../assets/icons/thunderoutbreaks.png"),
+  "Light rain shower": require("../assets/icons/light_rain.png"),
+  "Moderate or heavy rain with thunder": require("../assets/icons/rainwiththunder.png"),
+  "Partly Cloudy": require("../assets/icons/patchy_rain_water.png"),
+  "Patchy rain nearby": require("../assets/icons/patchy_rain_nearby.png"),
+  "Sunny": require("../assets/icons/sunny.png"),
+  // "Clear": require("../assets/icons/clear.png"),
+  // "Light rain shower": require("../assets/icons/light_rain.png"),
+  Mist: require("../assets/images/mist.png"),
+  other: require("../assets/images/moderaterain.png"),
+};
